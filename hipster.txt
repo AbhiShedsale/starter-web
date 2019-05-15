@@ -1,3 +1,6 @@
 Lorem ipsum dolor amet whatever actually waistcoat coloring book asymmetrical af bitters meditation cardigan poutine poke hammock woke art party. Tumeric polaroid heirloom umami sustainable chia post-ironic mumblecore. Mumblecore waistcoat whatever quinoa master cleanse man bun vinyl VHS mustache, gochujang lyft celiac flexitarian. Readymade selfies kinfolk migas meditation, ugh salvia flexitarian. Umami helvetica listicle vice. Hammock hell of palo santo waistcoat viral truffaut. Pop-up deep v kale chips, unicorn pok pok try-hard wayfarers poutine jean shorts hashtag humblebrag narwhal drinking vinegar umami yuccie.
 
 
+A repository is just a directory (a folder) in your project's root directory. (Throughout the entire article we'll use the term directory, not folder.) You can't see repositories in your filesystem as they're hidden. But you can still see a repository in your code editor or IDE:
+
+
