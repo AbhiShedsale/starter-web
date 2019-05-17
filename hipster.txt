@@ -1,6 +1,11 @@
 Lorem ipsum dolor amet whatever actually waistcoat coloring book asymmetrical af bitters meditation cardigan poutine poke hammock woke art party. Tumeric polaroid heirloom umami sustainable chia post-ironic mumblecore. Mumblecore waistcoat whatever quinoa master cleanse man bun vinyl VHS mustache, gochujang lyft celiac flexitarian. Readymade selfies kinfolk migas meditation, ugh salvia flexitarian. Umami helvetica listicle vice. Hammock hell of palo santo waistcoat viral truffaut. Pop-up deep v kale chips, unicorn pok pok try-hard wayfarers poutine jean shorts hashtag humblebrag narwhal drinking vinegar umami yuccie.
 
+We've explained three basic Git concepts you need to know, but we've also moved far away from explaining Git commands. Nevertheless, it's crucial to grasp Git's basic concepts to understand how Git commands work. Now that we've explained the meaning of Git concepts, we can get back to the commands.
 
 A repository is just a directory (a folder) in your project's root directory. (Throughout the entire article we'll use the term directory, not folder.) You can't see repositories in your filesystem as they're hidden. But you can still see a repository in your code editor or IDE:
+
+The git push command allows you to send data to other repositories. By default it sends data from your current branch to the same branch of the remote repository.
+
+By default you can only push to bare repositories (repositories without working tree). Also you can only push a change to a remote repository which results in a fast-forward merge.
 
 
